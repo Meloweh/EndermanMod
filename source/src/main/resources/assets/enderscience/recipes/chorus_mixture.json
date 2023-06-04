@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "enderscience:grinded_enderman_scale"
+    },
+    
+    {
+      "item": "enderscience:purified_chorus_powder"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "enderscience:chorus_mixture",
+        "count": 1
+    }
+}

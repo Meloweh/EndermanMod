@@ -1,0 +1,88 @@
+#PARSE_ESCAPES
+
+# GUI
+metamorph.gui.x=X
+metamorph.gui.y=Y
+metamorph.gui.z=Z
+metamorph.gui.pick=Pick morph
+metamorph.gui.add=Add
+metamorph.gui.remove=Remove
+metamorph.gui.use_target=Use target
+metamorph.gui.body_parts=Body parts
+metamorph.gui.limbs=Limbs
+metamorph.gui.translate=Translate
+metamorph.gui.scale=Scale
+metamorph.gui.rotate=Rotate
+
+metamorph.gui.survival_title=Morphs
+metamorph.gui.morph=Morph
+metamorph.gui.acquire=Acquire
+metamorph.gui.close=Close
+metamorph.gui.remove=Remove
+metamorph.gui.search=Search
+metamorph.gui.all_morphs=Show all
+metamorph.gui.no_morph=No Morph Selected
+metamorph.gui.selected=Selected
+
+metamorph.gui.from_morph=From morph
+metamorph.gui.edit=Edit
+metamorph.gui.finish=Finish
+metamorph.gui.panels.nbt_data=NBT data
+metamorph.gui.panels.nbt=NBT data
+metamorph.gui.panels.name=Name
+metamorph.gui.panels.username=Username
+metamorph.gui.panels.updating=Updating...
+
+# Config
+metamorph.config.general.title=General
+metamorph.config.keep_morphs=Retain morphs on death
+metamorph.config.hide_username=Hide username
+metamorph.config.show_demorph=Show demorph
+metamorph.config.disable_pov=Disable POV
+metamorph.config.disable_health=Disable health scaling
+metamorph.config.disable_morph_animation=Disable morph animation
+metamorph.config.disable_morph_disguise=Disable morph hostility
+
+# Commands
+metamorph.commands.morph=/morph <username> [morph_name] [data_tag]
+metamorph.commands.acquire_morph=/morph <username> <morph_name> [data_tag]
+metamorph.commands.metamorph=Metamorph server command. /metamorph reload <morphs> - reloads morph configuration
+
+metamorph.error.morph.not_player=Entity %s isn't not a player!
+metamorph.error.morph.nbt=Error occurred during data tag parsing:\n%s
+metamorph.error.acquire=Couldn't acquire a morph by name %s!
+metamorph.success.morph=Player by username %s was successfully morphed into %s!
+metamorph.success.demorph=Player by username %s was successfully demorphed!
+metamorph.success.acquire=Player by username %s was successfully acquired %s morph!
+
+# Morph categories
+morph.category.unknown=Unknown morphs
+morph.category.unsorted=Unsorted morphs
+morph.category.animal=Animal morphs
+morph.category.blocks=Blocks morphs
+morph.category.boss=Boss morphs
+morph.category.acquired=Your morphs
+morph.category.hostile=Hostile morphs
+morph.category.players=Player morphs
+morph.category.modded=Morphs from %s
+
+# Potion effects
+effect.ender_morph_potion=Ender Morph
+
+# Potions
+potion.effect.ender_morph_potion=Potion of Ender Morph
+potion.effect.long_ender_morph_potion=Potion of Ender Morph
+
+# Splash potions
+splash_potion.effect.ender_morph_potion=Splash Potion of Ender Morph
+splash_potion.effect.long_ender_morph_potion=Splash Potion of Ender Morph
+
+# Lingering potions
+lingering_potion.effect.ender_morph_potion=Lingering Potion of Ender Morph
+lingering_potion.effect.long_ender_morph_potion=Lingering Potion of Ender Morph
+
+# Items
+item.enderman_scale.name=Enderman Scales
+item.purified_chorus_powder.name=Purified Chorus Powder
+item.grinded_enderman_scale.name=Grounded Enderman Scale
+item.chorus_mixture.name=Chorus Mixture

@@ -1,0 +1,18 @@
+{
+    "minecraft:player": {
+        "health": 20,
+        "hands": true
+    },
+    "minecraft:enderman": {
+        "abilities": ["water_allergy", "projectile_dodge", "explosives_dodge", "magicdamage_dodge", "lava_dodge"],
+        "action": "teleport",
+        "sound": "enderman",
+        "health": 40,
+        "hostile": true,
+        "hands": true
+    },
+    "minecraft:ender_dragon": {
+        "health": 200,
+        "hostile": true
+    }
+}

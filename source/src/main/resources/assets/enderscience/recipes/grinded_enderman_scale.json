@@ -1,0 +1,26 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "enderscience:enderman_scale"
+    },
+
+    {
+      "item": "enderscience:enderman_scale"
+    },
+
+    {
+      "item": "enderscience:enderman_scale"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "enderscience:grinded_enderman_scale",
+        "count": 1
+    }
+}

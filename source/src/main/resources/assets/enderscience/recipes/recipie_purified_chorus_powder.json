@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CCC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:chorus_fruit"
+        }
+    },
+    
+    "result":
+    {
+        "item": "enderscience:purified_chorus_powder",
+        "count": 1
+    }
+}

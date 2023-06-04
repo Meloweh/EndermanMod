@@ -1,0 +1,17 @@
+[
+    {
+      "modid": "enderscience",
+      "name": "Ender Science Mod",
+      "description": "Adds potions to turn the player into an enderman with it's abilities and more.",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["TreeCree"],
+      "credits": "Madasy; mchorse/asanetargossfor\nThis Mod is a transformed updated Version of Mchorse's (source code) Mod:\nhttps://www.curseforge.com/minecraft/mc-mods/metamorph\nPlease also check Madasy's Mod out:\nhttps://www.curseforge.com/minecraft/mc-mods/ender-utilities\nmchorse",
+      "logoFile": "",
+      "screenshots": [],
+      "requiredMods": ["mclib"],
+      "dependencies": ["mclib"]
+    }
+]
