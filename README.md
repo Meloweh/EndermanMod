@@ -11,7 +11,7 @@ The project requires the ability to learn unfamiliar project structures independ
 
 After several approaches over the time my work was finally successful.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/kgyzTruki-o/0.jpg)](http://www.youtube.com/watch?v=kgyzTruki-o "Enderman mod showcase")
+https://github.com/Meloweh/EndermanMod/assets/49780209/d472aeac-ec97-4af0-a789-176035f75a97
 
 Languages:
 - Java
